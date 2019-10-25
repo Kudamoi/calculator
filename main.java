@@ -38,7 +38,7 @@ public class main {
 	}
 			
 	public static void ext(String result) {
-    System.out.println("---------------------------------------------------------------");
+    		System.out.println("---------------------------------------------------------------");
 		System.out.println("Резельтат выражения " + arr[0] + " " + arr[1] + " " + arr[2] + " = " + result);
 		System.out.println("---------------------------------------------------------------");
   }
